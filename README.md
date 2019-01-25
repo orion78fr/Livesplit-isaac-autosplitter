@@ -1,6 +1,6 @@
 This is a basic auto-splitter for Livesplit for *The Binding of Isaac : Rebirth*.
 
-Disclaimer : I do not know any of C# (I just fiddled something with stack overflow) and it was done in two nights of 2015.
+Disclaimer : I do not know any of C# (I just fiddled something with stack overflow) and it was done in two nights of 2015.  
 Do what you want with this.
 
 This (at least) work for LiveSplit 1.6.2. You may have to do some changes for this to work in current LiveSplit.
