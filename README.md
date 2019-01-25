@@ -8,3 +8,9 @@ This (at least) work for LiveSplit 1.6.2. You may have to do some changes for th
 It reads the log file of TBoI:R and check for certain lines (start of run, start of ending cinematic...).  
 Log format probably have changed for Afterbirth and Afterbirth+ extensions, so some changes may be necessary.  
 It check the file length to avoid reading the file each tick update.
+
+Some ideas :
+
+ - Log the seeds for each splits
+ - Reset count and time for each character
+ - In-game timer
